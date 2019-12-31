@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Tennis", "VR Tennis.csproj", "{9F7928BA-0E1E-13DA-30C0-964614AE0418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Tennis.Plugins", "VR Tennis.Plugins.csproj", "{020AC964-5414-FE5D-FC4E-3514CD951CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Tennis.Editor", "VR Tennis.Editor.csproj", "{7AF93776-8652-4793-9FB7-14955CF85C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7928BA-0E1E-13DA-30C0-964614AE0418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7928BA-0E1E-13DA-30C0-964614AE0418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7928BA-0E1E-13DA-30C0-964614AE0418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7928BA-0E1E-13DA-30C0-964614AE0418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020AC964-5414-FE5D-FC4E-3514CD951CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020AC964-5414-FE5D-FC4E-3514CD951CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020AC964-5414-FE5D-FC4E-3514CD951CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020AC964-5414-FE5D-FC4E-3514CD951CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF93776-8652-4793-9FB7-14955CF85C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF93776-8652-4793-9FB7-14955CF85C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF93776-8652-4793-9FB7-14955CF85C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF93776-8652-4793-9FB7-14955CF85C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
