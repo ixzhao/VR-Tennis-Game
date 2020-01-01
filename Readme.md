@@ -24,7 +24,7 @@
 3. 由于硬件条件的限制，挥拍极不真实，目前的方案是在碰撞发生时在网球上人为施加了几个方向的力。~~（投机取巧的方法）~~
 4. ~~（小概率发生，难复现；疑为Unity的[bug](https://issuetracker.unity3d.com/issues/skybox-field-doesnt-show-the-correct-value-when-working-with-multiple-scenes)，已在2017.4.27f1中修复，未测试）游戏内环境切换即改变天空盒材质后，即便调用了DynamicGI.UpdateEnvironment也无法更新环境纹理。比如，当从夜晚切换到白天时，球场的模型是暗黑而不是明亮的。~~
 
-如果你有好的解决方案，或者对项目其他地方有改进建议，欢迎[邮箱](mailto:Andrew-Chao@outlook.com)联系。^_^
+如果你有好的解决方案，或者对项目其他地方有改进建议，欢迎[邮箱](mailto:iAndrewZhao@outlook.com)联系。^_^
 
 ---
 ## 场景截图 ##
